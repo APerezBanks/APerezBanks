@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @APerezBanks
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning a Software Development full stack at CodeNation 12 week Bootcamp
+- 🌱 I’m currently learning a Software Development full stack at Hack A boss
 - 📫 How to reach me https://www.linkedin.com/in/alexander-perez-banks/
 
 <!---
