@@ -5,7 +5,7 @@
   
 - 🏫 Currently finished a Software Development full stack Bootcamp at Hack A boss
   
-- 🌱 also currently learning **Tailwind css & Angular**
+- 🌱 also currently learning **Tailwind css & typescript**
   
 - 👨‍💻 All of my projects are available at [aperezbanks.com](aperezbanks.com) (currently under construction)
   
